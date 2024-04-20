@@ -2,6 +2,6 @@ import React from 'react'
 
 export const MovieList = () => {
     return (
-        <main>MovieList</main>
+        <main className='flex  justify-center'>MovieList</main>
     )
 }
